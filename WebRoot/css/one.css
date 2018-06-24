@@ -1,0 +1,55 @@
+		.top {
+			background-color: #009776; 
+		}
+		/*		.top div{
+			border: 1px solid red; 
+		}
+		*/
+		
+		.top-1 {
+			overflow: hidden;
+			text-align: center;
+		}
+		
+		.top-1 ul li {
+			/*顶部小导航中的li*/
+			display: inline-block;
+			width: 20%;
+		}
+		
+		.top-1 ul {
+			/*顶部小导航*/
+			/*border: 1px solid red;*/
+			color: white;
+			position: relative;
+			width: 20%;
+			bottom: 12px;
+			right: 3%;
+		}
+		
+		.top-2 {
+			text-align: center;
+			line-height: 60px;
+			color: white;
+			font-size: 30px;
+		}
+		
+		#ashfont {
+			font-size: 50px;
+			color: #009776;
+			position: relative;
+			left: 50px;
+		}
+		
+		.bankuai {
+			width: 85%;
+			margin: auto;
+			margin-top: 50px;
+			overflow: hidden;
+		}
+		
+		.lx {
+			height: 2px;
+			border: none;
+			border-top: 2px dotted #009776;
+		}
